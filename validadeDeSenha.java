@@ -7,7 +7,6 @@ public class validadeDeSenha {
         Scanner scanner = new Scanner(System.in);
         int senha;
 
-
         System.out.println("digite a senha");
         senha = scanner.nextInt();
 
